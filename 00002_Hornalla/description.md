@@ -1,3 +1,5 @@
+Lo que se pide en este ejercicio parece fácil: modelar una hornalla de gas. 
+
 La temperatura de la hornalla es: 180 grados si está prendida, 20 grados si está apagada.
 
 El consumo de gas es: 4 dm3 si está prendida, 0 dm3 si está apagada.
