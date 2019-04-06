@@ -1,6 +1,6 @@
 A Ema le gusta vivir viajando, se la pasa yendo de ciudad en ciudad. 
 
-En la parte de "código extra" se definen tres ciudades. En este modelo, los objetos que representan ciudades saben responder a cuatro cosas  
+En la parte de "Biblioteca" se definen tres ciudades. En este modelo, los objetos que representan ciudades saben responder a cuatro cosas  
 
 - `haySol()`: devuelve un booleano.
 - `cantidadMuseos()`: devuelve un número.
