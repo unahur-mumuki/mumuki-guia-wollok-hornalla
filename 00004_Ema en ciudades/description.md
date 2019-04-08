@@ -15,7 +15,7 @@ Se nos pide que programemos el objeto que representa a Ema, que debe entender es
 
 P.ej. la siguiente secuencia debe funcionar como se indica
 
-```
+```wollok
 >>> ema.mudarse(encarnacion)
 >>> ema.gastosDiarios()
 3550
