@@ -13,7 +13,7 @@ La definición del objeto `hornalla` debe incluir estos cuatro métodos:
 
 El objeto debe funcionar como se indica abajo:
 
-```
+```wollok
 >>> hornalla.prender()
 >>> hornalla.temperatura()   
 180
