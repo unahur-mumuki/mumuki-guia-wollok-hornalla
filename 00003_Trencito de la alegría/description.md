@@ -8,7 +8,7 @@ Ahora nos piden hacer un modelo del trencito de la alegría, que entienda estos 
 
 Lo que sigue es un ejemplo del comportamiento que se espera.
 
-```
+```wollok
 >>> trencito.vaciar()       // no tiene ningún pasajero
 >>> trencito.vaCargado()    
 false
